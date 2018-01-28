@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DebuggerUtility.Visualizers", "DebuggerUtility.Visualizers\DebuggerUtility.Visualizers.csproj", "{10D34481-279C-4245-BE64-1880DF42B24A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VisualizerTests", "VisualizerTests\VisualizerTests.csproj", "{08572CA7-47FD-4059-8E1A-A41BD90403AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{10D34481-279C-4245-BE64-1880DF42B24A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10D34481-279C-4245-BE64-1880DF42B24A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10D34481-279C-4245-BE64-1880DF42B24A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10D34481-279C-4245-BE64-1880DF42B24A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{08572CA7-47FD-4059-8E1A-A41BD90403AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08572CA7-47FD-4059-8E1A-A41BD90403AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08572CA7-47FD-4059-8E1A-A41BD90403AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08572CA7-47FD-4059-8E1A-A41BD90403AB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
